@@ -192,9 +192,9 @@ Mexico's Ministry of Environment and Natural Resources (Secretaría de Medio Amb
 
 Data source: California Air Resources Board [Air Quality and Meteorological Information System](https://www.arb.ca.gov/aqmis2/aqdselect.php)
 
-Yearly averages are calculated from 24-hour average level recorded by CARB at selected monitoring sites. An EPA grant funded two years of monitoring in Mexicali that ended mid-April 2018.
+Yearly averages were calculated from 24-hour daily levels recorded by CARB at selected monitoring sites, including Mexicali and several California cities. An EPA grant funded two years of monitoring in Mexicali that ended April 2018.
 
-All 24-hr averages from 2017 (the most recent complete year of data) were selected for monitoring sites, including Mexicali and several California cities. The data were grouped by site and averages were calculated.
+The analysis included all available 24-hour daily data for the selected locations during 2017. The data were grouped by site and averages were calculated.
 
 ### PM10 comparison
 
