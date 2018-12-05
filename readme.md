@@ -162,12 +162,12 @@ In cases when no estimated total volume was given, the estimated sewage spills a
 
 1. Date and time data were placed in separate columns so total number of days that equipment or facilities were not functioning could be calculated. If a multi-day spill was listed but no start/stop time included, start and end days' duration was calculated by:
   1. Averaging both (1) the length of all single-day disruptions, and (2) the length of all single-day disruption events that were at least four hours and thus more likely to be a multi-day disruption.
-  2. These averaged 4.7857 hours for all single-day events, and 6.875 hours for longer events.
+  2. These averaged 4.8 hours for all single-day events, and 6.9 hours for longer events.
 2. A multiday event's duration was calculated by subtracting End Date – Start date = X.
 
-(24 hours/day)\*(X days)+6.875 hours
+(24 hours/day)\*(X days)+6.9 hours
 
-1. A single day event's duration where no start or end time was provided was estimated as a 4.7857-hour spill.
+1. A single day event's duration where no start or end time was provided was estimated as a 4.8-hour spill.
 2. Volume was converted from liters per second to cubic meters per hours, where 1 liter-per-second is equal to 3.6 cubic meters per hour.
 3. The estimated flow rates provided by the IBWC were used to calculate the volume. One spill did not include a flow rate for Pumping Plant #4, in this case, other reported outages for PP#4 were averages (120lps, 225lps, and 300lps) to estimate the flow for this instance.
 4. For any spill event that there was not an estimated total volume, this was calculated as hours \* bypass speed (in cubic meters per hour).
